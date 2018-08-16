@@ -28,7 +28,7 @@ Posts that appear near the top of a subreddit's Hot ranking (which penalises old
 
 There were 9,391 posts that had a final observed score 100 or more, these were the top scoring 3% of posts submitted. Together, these posts received 81% of all score and 53% of all comments, or 1.5 million comments.
 
-![Fig0b - Comment Distribution](reddit1/images/fig0b-comment-distribution.png)
+![Fig0b - Comment Distribution](reddit1/images/fig0b-comments-distribution.png)
 
 Comments are an indirect indicator of visibility. Posts that score well will tend to have many comments, although different types of post attract comments at different rates.
 
