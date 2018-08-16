@@ -84,7 +84,7 @@ Articles/news and project blogs will be considered in more depth, but it is wort
 Top 20 article/news domains ordered by total score of posts:
 
 ```markdown
-| domain                 | num_comments | score  | post | score.posts | comments.posts |
+| domain                 | comments     | score  | posts| mean score  | mean comments  |
 |------------------------|--------------|--------|------|-------------|----------------|
 | medium.com             | 58474        | 212136 | 8694 | 24.4        | 6.7            |
 | steemit.com            | 15882        | 57592  | 3076 | 18.7        | 5.2            |
