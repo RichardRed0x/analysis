@@ -1,5 +1,7 @@
 # Draft text
 
+# Draft text
+
 # Reddit CryptoCurrency observations - Part 1
 
 This post is probably going to be part of a series where I play around with reddit data to provide an overview of activity and see if it's possible to answer any interesting questions.
@@ -14,9 +16,11 @@ I doubt there's any direct evidence of manipulation in the available public data
 
 I have used the data in this comprehensive looking [bigquery table](https://bigquery.cloud.google.com/dataset/fh-bigquery:reddit_posts) as a starting point for analysis. It appears to be a comprehensive set of reddit posts, but I'm not sure yet whether it includes deleted/censored posts, my guess is not. 
 
+I have provided the post data for /r/cryptocurrency from August 2017-May 2018 in [two](reddit1/data/cc-export1.csv) [files](reddit1/data/cc-export2.csv), along with the [R code](reddit/reddit1/reddit-1.R) to run the analyses and some tables that are generated along the way.
+
 ## /r/Cryptocurrency
 
-#### Observation period: September 2017 - May 2018
+#### Observation period: August 2017 - May 2018
 
 In this time period /r/cryptocurrency saw a total of 281,770 post submissions; these posts were commented on 2.84 million times and had a combined score (upvotes less downvotes) of 7.1 million. Unfortunately reddit doesn't return upvotes and downvotes through the API so there's no way to look at how controversial posts were.
 
