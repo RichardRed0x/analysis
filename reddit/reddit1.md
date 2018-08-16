@@ -112,7 +112,7 @@ Interesting that even within domains that are for long-form articles the top one
 
 I'm slightly surprised to see cnbc posts doing better than more crypto-oriented sites like coindesk and cointelegraph.
 
-The presence of m.news.naver.com in this list reflects the fact that high-scoring posts can accrue a very high score, in this case [one post about the re-opening of cryptocurrency trading in Korea](redd.it/7s9zmc) accounts for 13371 (lol) of that domain's score.
+The presence of m.news.naver.com in this list reflects the fact that high-scoring posts can accrue a very high score, in this case [one post about the re-opening of cryptocurrency trading in Korea](https://redd.it/7s9zmc) accounts for 13371 (lol) of that domain's score.
 
 There are many other domains that only have a few posts associated with them, most are unremarkable but there are a few blogs of well known individuals associated with a small number of high-scoring posts each.
 
