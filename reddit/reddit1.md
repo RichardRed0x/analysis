@@ -40,6 +40,8 @@ Comments are an indirect indicator of visibility. Posts that score well will ten
 
 ![Fig1 - Activity by Day](reddit1/images/fig1-activity-by-day.png)
 
+Activity data per day of post submission [here](reddit/reddit1/data/days.csv).
+
 That looks familiar. Not a huge surprise that /r/cryptocurrency saw a big increase in activity levels around the bull market of late 2017 early 2018.
 
 Looks like a fairly strong weekend effect too, let's have a look at that.
@@ -48,7 +50,7 @@ Looks like a fairly strong weekend effect too, let's have a look at that.
 
 ![Fig2 - Activity by Day](reddit1/images/fig2-dayofweek.png)
 
-##### Post submissions and success by hour of the day
+##### Post submissions and success by [hour](reddit/reddit1/data/hours.csv) of the day
 
 ![Fig3 - Activity by Hour](reddit1/images/fig3-hourly-activity.png)
 
@@ -63,7 +65,7 @@ The graph suggests there are some submission times when posts tend to do a littl
 
 ### What kind of content is popular on /r/cryptocurrency?
 
-Domains are a decent starting point for considering the type of content submitted and discussed. I created a table with the number of posts per domain and their summed comments and scores[link]. 
+[Domains](reddit/reddit1/data/domains.csv) are a decent starting point for considering the type of content submitted and discussed. I created a table with the number of posts per domain and their summed comments and scores[link]. 
 
 The number of posts associated with a domain tells us how often people submitted posts which linked to it, while the score and comments for these posts give an indication of how successful they were at capturing the attention of /r/cryptocurrency subscribers.
 
