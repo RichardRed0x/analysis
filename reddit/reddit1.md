@@ -1,4 +1,4 @@
-# Reddit CryptoCurrency observations - Part 1: Broad Overview
+# Reddit CryptoCurrency observations - Part 1: Broad Overview of /r/cryptocurrency
 
 This post is probably going to be part of a series where I play around with reddit data to provide an overview of activity and see if it's possible to answer any interesting questions.
 
