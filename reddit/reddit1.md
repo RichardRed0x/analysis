@@ -42,11 +42,13 @@ Activity data per day of post submission [here](reddit/reddit1/data/days.csv).
 
 That looks familiar. Not a huge surprise that /r/cryptocurrency saw a big increase in activity levels around the bull market of late 2017 early 2018.
 
-Looks like a fairly strong weekend effect too, let's have a look at that.
+Activity by day of the week
 
 ##### Activity by day of the week
 
 ![Fig2 - Activity by Day](reddit1/images/fig2-dayofweek.png)
+
+I'm interested in whether there are hour of the day effects too, the following bar chart suggests that there are.
 
 ##### Post submissions and success by [hour](reddit/reddit1/data/hours.csv) of the day
 
