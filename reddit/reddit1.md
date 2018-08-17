@@ -133,7 +133,7 @@ I have some ideas for how available data can shed light on these, but that feels
 
 I'm interested to hear about other questions people are interested in addressing with this data.
 
-I also intend to make access to the data-sets and R code used available, if anyone does anything interesting with this I'd love to hear about it. Also feel free to send PRs that improve on the shoddy-ness of my code, if witnessing this mess of for loops hanging together by a thread bothers you.
+The data and code for this are available on GitHub, if anyone does anything interesting with it I'd love to hear about it. Also feel free to send PRs that improve on the shoddyness of my code, if witnessing this mess of for loops hanging together by a thread bothers you.
 
 #### To close, some word-clouds
 
