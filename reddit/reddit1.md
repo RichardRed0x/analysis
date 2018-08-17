@@ -24,7 +24,7 @@ Reddit focuses user attention on posts that score well, and the distribution of 
 
 ![Fig0a - Score Distribution](reddit1/images/fig0a-score-distribution.png)
 
-Posts that appear near the top of a subreddit's Hot ranking (which penalises older posts) are most visible and consequently most voted on, if they are endorsed by the subreddit's voting users on the main page they will tend to stay there for hours and amass a lot of upvotes and comments.
+Posts that appear near the top of a subreddit's Hot ranking (which penalises older posts) are most visible and consequently most voted on. Posts which are appreciated by the subreddit's voting users on the main page they will tend to stay there for hours and amass a lot of upvotes and comments.
 
 There were 9,391 posts that had a final observed score 100 or more, these were the top scoring 3% of posts submitted. Together, these posts received 81% of all score and 53% of all comments, or 1.5 million comments.
 
