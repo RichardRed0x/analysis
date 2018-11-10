@@ -1,0 +1,8 @@
+![Reddit activity levels per month](activity-by-month-BitShares.png)
+![Reddit activity levels per day](activity-by-day-BitShares.png)
+![Which types of post are upvoted](type-bar-BitShares.png)
+![Domains of high-scoring postsy](domains-BitShares.png)
+![Titles wordcloud](BitShares-wordcloud-title.png)
+![Selftext wordcloud](BitShares-wordcloud-selftext.png)
+![Latent Dirichlet Allocation on titles](BitShares-title-lda6-top10terms.png)
+![Latent Dirichlet Allocation on selftext](BitShares-self-lda6-top10terms.png)

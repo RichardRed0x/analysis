@@ -1,0 +1,8 @@
+![Reddit activity levels per month](activity-by-month-Lisk.png)
+![Reddit activity levels per day](activity-by-day-Lisk.png)
+![Which types of post are upvoted](type-bar-Lisk.png)
+![Domains of high-scoring postsy](domains-Lisk.png)
+![Titles wordcloud](Lisk-wordcloud-title.png)
+![Selftext wordcloud](Lisk-wordcloud-selftext.png)
+![Latent Dirichlet Allocation on titles](Lisk-title-lda6-top10terms.png)
+![Latent Dirichlet Allocation on selftext](Lisk-self-lda6-top10terms.png)

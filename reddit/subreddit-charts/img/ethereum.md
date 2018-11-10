@@ -1,0 +1,8 @@
+![Reddit activity levels per month](activity-by-month-ethereum.png)
+![Reddit activity levels per day](activity-by-day-ethereum.png)
+![Which types of post are upvoted](type-bar-ethereum.png)
+![Domains of high-scoring postsy](domains-ethereum.png)
+![Titles wordcloud](ethereum-wordcloud-title.png)
+![Selftext wordcloud](ethereum-wordcloud-selftext.png)
+![Latent Dirichlet Allocation on titles](ethereum-title-lda6-top10terms.png)
+![Latent Dirichlet Allocation on selftext](ethereum-self-lda6-top10terms.png)

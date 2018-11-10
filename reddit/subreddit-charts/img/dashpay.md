@@ -1,0 +1,8 @@
+![Reddit activity levels per month](activity-by-month-dashpay.png)
+![Reddit activity levels per day](activity-by-day-dashpay.png)
+![Which types of post are upvoted](type-bar-dashpay.png)
+![Domains of high-scoring postsy](domains-dashpay.png)
+![Titles wordcloud](dashpay-wordcloud-title.png)
+![Selftext wordcloud](dashpay-wordcloud-selftext.png)
+![Latent Dirichlet Allocation on titles](dashpay-title-lda6-top10terms.png)
+![Latent Dirichlet Allocation on selftext](dashpay-self-lda6-top10terms.png)

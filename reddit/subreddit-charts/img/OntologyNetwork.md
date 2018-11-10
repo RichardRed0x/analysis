@@ -1,0 +1,8 @@
+![Reddit activity levels per month](activity-by-month-OntologyNetwork.png)
+![Reddit activity levels per day](activity-by-day-OntologyNetwork.png)
+![Which types of post are upvoted](type-bar-OntologyNetwork.png)
+![Domains of high-scoring postsy](domains-OntologyNetwork.png)
+![Titles wordcloud](OntologyNetwork-wordcloud-title.png)
+![Selftext wordcloud](OntologyNetwork-wordcloud-selftext.png)
+![Latent Dirichlet Allocation on titles](OntologyNetwork-title-lda6-top10terms.png)
+![Latent Dirichlet Allocation on selftext](OntologyNetwork-self-lda6-top10terms.png)

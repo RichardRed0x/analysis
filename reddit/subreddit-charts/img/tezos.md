@@ -1,0 +1,8 @@
+![Reddit activity levels per month](activity-by-month-tezos.png)
+![Reddit activity levels per day](activity-by-day-tezos.png)
+![Which types of post are upvoted](type-bar-tezos.png)
+![Domains of high-scoring postsy](domains-tezos.png)
+![Titles wordcloud](tezos-wordcloud-title.png)
+![Selftext wordcloud](tezos-wordcloud-selftext.png)
+![Latent Dirichlet Allocation on titles](tezos-title-lda6-top10terms.png)
+![Latent Dirichlet Allocation on selftext](tezos-self-lda6-top10terms.png)

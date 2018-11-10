@@ -1,0 +1,8 @@
+![Reddit activity levels per month](activity-by-month-CryptoTechnology.png)
+![Reddit activity levels per day](activity-by-day-CryptoTechnology.png)
+![Which types of post are upvoted](type-bar-CryptoTechnology.png)
+![Domains of high-scoring postsy](domains-CryptoTechnology.png)
+![Titles wordcloud](CryptoTechnology-wordcloud-title.png)
+![Selftext wordcloud](CryptoTechnology-wordcloud-selftext.png)
+![Latent Dirichlet Allocation on titles](CryptoTechnology-title-lda6-top10terms.png)
+![Latent Dirichlet Allocation on selftext](CryptoTechnology-self-lda6-top10terms.png)

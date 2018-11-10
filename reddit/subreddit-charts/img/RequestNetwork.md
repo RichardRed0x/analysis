@@ -1,0 +1,8 @@
+![Reddit activity levels per month](activity-by-month-RequestNetwork.png)
+![Reddit activity levels per day](activity-by-day-RequestNetwork.png)
+![Which types of post are upvoted](type-bar-RequestNetwork.png)
+![Domains of high-scoring postsy](domains-RequestNetwork.png)
+![Titles wordcloud](RequestNetwork-wordcloud-title.png)
+![Selftext wordcloud](RequestNetwork-wordcloud-selftext.png)
+![Latent Dirichlet Allocation on titles](RequestNetwork-title-lda6-top10terms.png)
+![Latent Dirichlet Allocation on selftext](RequestNetwork-self-lda6-top10terms.png)

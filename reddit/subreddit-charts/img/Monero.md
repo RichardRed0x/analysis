@@ -1,0 +1,8 @@
+![Reddit activity levels per month](activity-by-month-Monero.png)
+![Reddit activity levels per day](activity-by-day-Monero.png)
+![Which types of post are upvoted](type-bar-Monero.png)
+![Domains of high-scoring postsy](domains-Monero.png)
+![Titles wordcloud](Monero-wordcloud-title.png)
+![Selftext wordcloud](Monero-wordcloud-selftext.png)
+![Latent Dirichlet Allocation on titles](Monero-title-lda6-top10terms.png)
+![Latent Dirichlet Allocation on selftext](Monero-self-lda6-top10terms.png)

@@ -1,0 +1,8 @@
+![Reddit activity levels per month](activity-by-month-binance.png)
+![Reddit activity levels per day](activity-by-day-binance.png)
+![Which types of post are upvoted](type-bar-binance.png)
+![Domains of high-scoring postsy](domains-binance.png)
+![Titles wordcloud](binance-wordcloud-title.png)
+![Selftext wordcloud](binance-wordcloud-selftext.png)
+![Latent Dirichlet Allocation on titles](binance-title-lda6-top10terms.png)
+![Latent Dirichlet Allocation on selftext](binance-self-lda6-top10terms.png)

@@ -1,0 +1,8 @@
+![Reddit activity levels per month](activity-by-month-cardano.png)
+![Reddit activity levels per day](activity-by-day-cardano.png)
+![Which types of post are upvoted](type-bar-cardano.png)
+![Domains of high-scoring postsy](domains-cardano.png)
+![Titles wordcloud](cardano-wordcloud-title.png)
+![Selftext wordcloud](cardano-wordcloud-selftext.png)
+![Latent Dirichlet Allocation on titles](cardano-title-lda6-top10terms.png)
+![Latent Dirichlet Allocation on selftext](cardano-self-lda6-top10terms.png)

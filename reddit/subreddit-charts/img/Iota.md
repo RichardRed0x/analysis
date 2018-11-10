@@ -1,0 +1,8 @@
+![Reddit activity levels per month](activity-by-month-Iota.png)
+![Reddit activity levels per day](activity-by-day-Iota.png)
+![Which types of post are upvoted](type-bar-Iota.png)
+![Domains of high-scoring postsy](domains-Iota.png)
+![Titles wordcloud](Iota-wordcloud-title.png)
+![Selftext wordcloud](Iota-wordcloud-selftext.png)
+![Latent Dirichlet Allocation on titles](Iota-title-lda6-top10terms.png)
+![Latent Dirichlet Allocation on selftext](Iota-self-lda6-top10terms.png)

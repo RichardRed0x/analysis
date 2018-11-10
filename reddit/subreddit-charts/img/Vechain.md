@@ -1,0 +1,8 @@
+![Reddit activity levels per month](activity-by-month-Vechain.png)
+![Reddit activity levels per day](activity-by-day-Vechain.png)
+![Which types of post are upvoted](type-bar-Vechain.png)
+![Domains of high-scoring postsy](domains-Vechain.png)
+![Titles wordcloud](Vechain-wordcloud-title.png)
+![Selftext wordcloud](Vechain-wordcloud-selftext.png)
+![Latent Dirichlet Allocation on titles](Vechain-title-lda6-top10terms.png)
+![Latent Dirichlet Allocation on selftext](Vechain-self-lda6-top10terms.png)

@@ -1,0 +1,8 @@
+![Reddit activity levels per month](activity-by-month-zilliqa.png)
+![Reddit activity levels per day](activity-by-day-zilliqa.png)
+![Which types of post are upvoted](type-bar-zilliqa.png)
+![Domains of high-scoring postsy](domains-zilliqa.png)
+![Titles wordcloud](zilliqa-wordcloud-title.png)
+![Selftext wordcloud](zilliqa-wordcloud-selftext.png)
+![Latent Dirichlet Allocation on titles](zilliqa-title-lda6-top10terms.png)
+![Latent Dirichlet Allocation on selftext](zilliqa-self-lda6-top10terms.png)

@@ -1,0 +1,8 @@
+![Reddit activity levels per month](activity-by-month-litecoin.png)
+![Reddit activity levels per day](activity-by-day-litecoin.png)
+![Which types of post are upvoted](type-bar-litecoin.png)
+![Domains of high-scoring postsy](domains-litecoin.png)
+![Titles wordcloud](litecoin-wordcloud-title.png)
+![Selftext wordcloud](litecoin-wordcloud-selftext.png)
+![Latent Dirichlet Allocation on titles](litecoin-title-lda6-top10terms.png)
+![Latent Dirichlet Allocation on selftext](litecoin-self-lda6-top10terms.png)

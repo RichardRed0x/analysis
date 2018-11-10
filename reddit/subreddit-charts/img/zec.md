@@ -1,0 +1,8 @@
+![Reddit activity levels per month](activity-by-month-zec.png)
+![Reddit activity levels per day](activity-by-day-zec.png)
+![Which types of post are upvoted](type-bar-zec.png)
+![Domains of high-scoring postsy](domains-zec.png)
+![Titles wordcloud](zec-wordcloud-title.png)
+![Selftext wordcloud](zec-wordcloud-selftext.png)
+![Latent Dirichlet Allocation on titles](zec-title-lda6-top10terms.png)
+![Latent Dirichlet Allocation on selftext](zec-self-lda6-top10terms.png)
