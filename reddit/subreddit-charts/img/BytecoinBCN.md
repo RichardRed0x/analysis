@@ -1,0 +1,8 @@
+![Reddit activity levels per month](activity-by-month-BytecoinBCN.png)
+![Reddit activity levels per day](activity-by-day-BytecoinBCN.png)
+![Which types of post are upvoted](type-bar-BytecoinBCN.png)
+![Domains of high-scoring postsy](domains-BytecoinBCN.png)
+![Titles wordcloud](BytecoinBCN-wordcloud-title.png)
+![Selftext wordcloud](BytecoinBCN-wordcloud-selftext.png)
+![Latent Dirichlet Allocation on titles](BytecoinBCN-title-lda6-top10terms.png)
+![Latent Dirichlet Allocation on selftext](BytecoinBCN-self-lda6-top10terms.png)

@@ -1,0 +1,8 @@
+![Reddit activity levels per month](activity-by-month-omise_go.png)
+![Reddit activity levels per day](activity-by-day-omise_go.png)
+![Which types of post are upvoted](type-bar-omise_go.png)
+![Domains of high-scoring postsy](domains-omise_go.png)
+![Titles wordcloud](omise_go-wordcloud-title.png)
+![Selftext wordcloud](omise_go-wordcloud-selftext.png)
+![Latent Dirichlet Allocation on titles](omise_go-title-lda6-top10terms.png)
+![Latent Dirichlet Allocation on selftext](omise_go-self-lda6-top10terms.png)

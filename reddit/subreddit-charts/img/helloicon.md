@@ -1,0 +1,8 @@
+![Reddit activity levels per month](activity-by-month-helloicon.png)
+![Reddit activity levels per day](activity-by-day-helloicon.png)
+![Which types of post are upvoted](type-bar-helloicon.png)
+![Domains of high-scoring postsy](domains-helloicon.png)
+![Titles wordcloud](helloicon-wordcloud-title.png)
+![Selftext wordcloud](helloicon-wordcloud-selftext.png)
+![Latent Dirichlet Allocation on titles](helloicon-title-lda6-top10terms.png)
+![Latent Dirichlet Allocation on selftext](helloicon-self-lda6-top10terms.png)

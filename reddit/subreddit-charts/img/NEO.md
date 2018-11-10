@@ -1,0 +1,8 @@
+![Reddit activity levels per month](activity-by-month-NEO.png)
+![Reddit activity levels per day](activity-by-day-NEO.png)
+![Which types of post are upvoted](type-bar-NEO.png)
+![Domains of high-scoring postsy](domains-NEO.png)
+![Titles wordcloud](NEO-wordcloud-title.png)
+![Selftext wordcloud](NEO-wordcloud-selftext.png)
+![Latent Dirichlet Allocation on titles](NEO-title-lda6-top10terms.png)
+![Latent Dirichlet Allocation on selftext](NEO-self-lda6-top10terms.png)

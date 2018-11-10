@@ -1,0 +1,8 @@
+![Reddit activity levels per month](activity-by-month-0xProject.png)
+![Reddit activity levels per day](activity-by-day-0xProject.png)
+![Which types of post are upvoted](type-bar-0xProject.png)
+![Domains of high-scoring postsy](domains-0xProject.png)
+![Titles wordcloud](0xProject-wordcloud-title.png)
+![Selftext wordcloud](0xProject-wordcloud-selftext.png)
+![Latent Dirichlet Allocation on titles](0xProject-title-lda6-top10terms.png)
+![Latent Dirichlet Allocation on selftext](0xProject-self-lda6-top10terms.png)

@@ -1,0 +1,8 @@
+![Reddit activity levels per month](activity-by-month-OriginTrail.png)
+![Reddit activity levels per day](activity-by-day-OriginTrail.png)
+![Which types of post are upvoted](type-bar-OriginTrail.png)
+![Domains of high-scoring postsy](domains-OriginTrail.png)
+![Titles wordcloud](OriginTrail-wordcloud-title.png)
+![Selftext wordcloud](OriginTrail-wordcloud-selftext.png)
+![Latent Dirichlet Allocation on titles](OriginTrail-title-lda6-top10terms.png)
+![Latent Dirichlet Allocation on selftext](OriginTrail-self-lda6-top10terms.png)

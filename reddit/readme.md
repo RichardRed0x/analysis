@@ -12,9 +12,11 @@ I'm dumping the code here in its very rough current form, if anyone wants to run
 
 ![Reddit activity levels per month](subreddit-charts/img/activity-by-month-decred.png)
 
-Comments, Score and Posts are the numbers from the subreddit for the month. cccomments, ccscore and ccposts relate to posts with the cryptocurrency's name in their title from /r/cryptocurrency
+Comments, Score and Posts are the numbers from the subreddit for the month. cccomments, ccscore and ccposts relate to posts with the cryptocurrency's name in their title from /r/cryptocurrency.
 
 The code for matching posts from cryptocurrency is very basic, I set a name and ticker symbol for each subreddit and then looked for posts whose title contained one of these strings.
+
+Decred's subreddit shows a peak in activity for late 201. Declining activity levels in 2018 is a common theme when looking at the same graph for different subreddits. 
 
 ### Activity levels by day
 
@@ -56,4 +58,43 @@ Latent Dirichlet Allocation is a topic modelling method, it identifies topics ba
 
 ![Latent Dirichlet Allocation, 6 topics - selftext](subreddit-charts/img/decred-self-lda6-top10terms.png)
 
-All of the analyses presented in these images are rough, repeated with the same settings for every subreddit without care and consideration. There is ample room for all of them to be improved, if that's worth the effort. There are also many analyses that could be run with the comments data.
+All of the analyses presented in these images are rough, repeated with the same settings for every subreddit without care and consideration. There is ample room for all of them to be improved, if that's worth the effort. 
+
+Running these topic models over different time intervals can be quite interesting too, to see how well the topics reflect changes in the community's discourse as significant events come and go. 
+
+There are also many analyses that could be run with the comments data.
+
+### Other subreddits
+
+[ethereum](/reddit/subreddit-charts/img/ethereum.md)
+[NEO](/reddit/subreddit-charts/img/NEO.md)
+[Lisk](/reddit/subreddit-charts/img/Lisk.md)
+[Monero](/reddit/subreddit-charts/img/Monero.md)
+[Ripple](/reddit/subreddit-charts/img/Ripple.md)
+[litecoin](/reddit/subreddit-charts/img/litecoin.md)
+[Stellar](/reddit/subreddit-charts/img/Stellar.md)
+[eos](/reddit/subreddit-charts/img/eos.md)
+[dashpay](/reddit/subreddit-charts/img/dashpay.md)
+[omise_go](/reddit/subreddit-charts/img/omise_go.md)
+[Iota](/reddit/subreddit-charts/img/Iota.md)
+[BytecoinBCN](/reddit/subreddit-charts/img/BytecoinBCN.md)
+[nem](/reddit/subreddit-charts/img/nem.md)
+[BitShares](/reddit/subreddit-charts/img/BitShares.md)
+[decred](/reddit/subreddit-charts/img/decred.md)
+[tezos](/reddit/subreddit-charts/img/tezos.md)
+[binance](/reddit/subreddit-charts/img/binance.md)
+[EthereumClassic](/reddit/subreddit-charts/img/EthereumClassic.md)
+[zec](/reddit/subreddit-charts/img/zec.md)
+[0xProject](/reddit/subreddit-charts/img/0xProject.md)
+[Qtum](/reddit/subreddit-charts/img/Qtum.md)
+[ambrosus](/reddit/subreddit-charts/img/ambrosus.md)
+[cardano](/reddit/subreddit-charts/img/cardano.md)
+[zilliqa](/reddit/subreddit-charts/img/zilliqa.md)
+[helloicon](/reddit/subreddit-charts/img/helloicon.md)
+[Tronix](/reddit/subreddit-charts/img/Tronix.md)
+[RequestNetwork](/reddit/subreddit-charts/img/RequestNetwork.md)
+[OriginTrail](/reddit/subreddit-charts/img/OriginTrail.md)
+[Vechain](/reddit/subreddit-charts/img/Vechain.md)
+[OntologyNetwork](/reddit/subreddit-charts/img/OntologyNetwork.md)
+[CryptoTechnology](/reddit/subreddit-charts/img/CryptoTechnology.md)
+[nanocurrency](/reddit/subreddit-charts/img/nanocurrency.md)

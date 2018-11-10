@@ -1,0 +1,8 @@
+![Reddit activity levels per month](activity-by-month-Tronix.png)
+![Reddit activity levels per day](activity-by-day-Tronix.png)
+![Which types of post are upvoted](type-bar-Tronix.png)
+![Domains of high-scoring postsy](domains-Tronix.png)
+![Titles wordcloud](Tronix-wordcloud-title.png)
+![Selftext wordcloud](Tronix-wordcloud-selftext.png)
+![Latent Dirichlet Allocation on titles](Tronix-title-lda6-top10terms.png)
+![Latent Dirichlet Allocation on selftext](Tronix-self-lda6-top10terms.png)

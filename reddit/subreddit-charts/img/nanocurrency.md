@@ -1,0 +1,8 @@
+![Reddit activity levels per month](activity-by-month-nanocurrency.png)
+![Reddit activity levels per day](activity-by-day-nanocurrency.png)
+![Which types of post are upvoted](type-bar-nanocurrency.png)
+![Domains of high-scoring postsy](domains-nanocurrency.png)
+![Titles wordcloud](nanocurrency-wordcloud-title.png)
+![Selftext wordcloud](nanocurrency-wordcloud-selftext.png)
+![Latent Dirichlet Allocation on titles](nanocurrency-title-lda6-top10terms.png)
+![Latent Dirichlet Allocation on selftext](nanocurrency-self-lda6-top10terms.png)
