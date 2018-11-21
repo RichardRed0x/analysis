@@ -1,8 +1,18 @@
+This repository is for analysis of cryptocurrency-related social media activity, starting with reddit.
+
+### /r/cryptocurrency
+
+[This report](reddit1.md) gives some background to the data and considers the /r/cryptocurrency subreddit. This [folder](https://github.com/RichardRed0x/analysis/reddit/reddit1/) contains the data and R code used for analysis.
+
 ### Subreddit charts
 
-[This page](reddit/readme.md) gives an overview of the charts with /r/decred used as an example.
+I was looking around at the data from subreddits and decided to package a selection in a loop and just run it for all of the top 30 or so coins, plus some extra ones that made it onto my data collection list. The charts for some subreddits are quite interesting, probably more so if you have some context for what was happening, in which case they can serve as a memory aid.
 
-These pages just show the charts for a subreddit:
+[This page](reddit/readme.md) gives an overview of the charts with /r/decred used as an example. 
+
+I haven't shared the code for making these yet because it is set up as a big shaky loop. If you want to run it yourself let me know and I will polish it up and push it here.
+
+These pages each show the charts for a subreddit:
 
 * [ethereum](reddit/subreddit-charts/img/ethereum.md)
 * [NEO](reddit/subreddit-charts/img/NEO.md)

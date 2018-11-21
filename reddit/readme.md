@@ -16,7 +16,9 @@ Comments, Score and Posts are the numbers from the subreddit for the month. ccco
 
 The code for matching posts from cryptocurrency is very basic, I set a name and ticker symbol for each subreddit and then looked for posts whose title contained one of these strings.
 
-Decred's subreddit shows a peak in activity for late 201. Declining activity levels in 2018 is a common theme when looking at the same graph for different subreddits. 
+Decred's subreddit shows a peak in activity for late 2017. Declining activity levels in 2018 is a common theme when looking at the same graph for different subreddits.
+
+On /r/cryptocurrency there have been very few posts about Decred which scored well in 2018, September-October 2017 was when posts about Decred on /r/cryptocurrency were receiving the most upvotes. 
 
 ### Activity levels by day
 
@@ -64,3 +66,37 @@ Running these topic models over different time intervals can be quite interestin
 
 There are also many analyses that could be run with the comments data.
 
+### Other subreddits
+
+[ethereum](/reddit/subreddit-charts/img/ethereum.md)
+[NEO](/reddit/subreddit-charts/img/NEO.md)
+[Lisk](/reddit/subreddit-charts/img/Lisk.md)
+[Monero](/reddit/subreddit-charts/img/Monero.md)
+[Ripple](/reddit/subreddit-charts/img/Ripple.md)
+[litecoin](/reddit/subreddit-charts/img/litecoin.md)
+[Stellar](/reddit/subreddit-charts/img/Stellar.md)
+[eos](/reddit/subreddit-charts/img/eos.md)
+[dashpay](/reddit/subreddit-charts/img/dashpay.md)
+[omise_go](/reddit/subreddit-charts/img/omise_go.md)
+[Iota](/reddit/subreddit-charts/img/Iota.md)
+[BytecoinBCN](/reddit/subreddit-charts/img/BytecoinBCN.md)
+[nem](/reddit/subreddit-charts/img/nem.md)
+[BitShares](/reddit/subreddit-charts/img/BitShares.md)
+[decred](/reddit/subreddit-charts/img/decred.md)
+[tezos](/reddit/subreddit-charts/img/tezos.md)
+[binance](/reddit/subreddit-charts/img/binance.md)
+[EthereumClassic](/reddit/subreddit-charts/img/EthereumClassic.md)
+[zec](/reddit/subreddit-charts/img/zec.md)
+[0xProject](/reddit/subreddit-charts/img/0xProject.md)
+[Qtum](/reddit/subreddit-charts/img/Qtum.md)
+[ambrosus](/reddit/subreddit-charts/img/ambrosus.md)
+[cardano](/reddit/subreddit-charts/img/cardano.md)
+[zilliqa](/reddit/subreddit-charts/img/zilliqa.md)
+[helloicon](/reddit/subreddit-charts/img/helloicon.md)
+[Tronix](/reddit/subreddit-charts/img/Tronix.md)
+[RequestNetwork](/reddit/subreddit-charts/img/RequestNetwork.md)
+[OriginTrail](/reddit/subreddit-charts/img/OriginTrail.md)
+[Vechain](/reddit/subreddit-charts/img/Vechain.md)
+[OntologyNetwork](/reddit/subreddit-charts/img/OntologyNetwork.md)
+[CryptoTechnology](/reddit/subreddit-charts/img/CryptoTechnology.md)
+[nanocurrency](/reddit/subreddit-charts/img/nanocurrency.md)
