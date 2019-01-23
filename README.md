@@ -2,7 +2,7 @@ This repository is for analysis of cryptocurrency-related social media activity,
 
 ### /r/cryptocurrency
 
-[This report](reddit1.md) gives some background to the data and considers the /r/cryptocurrency subreddit. This [folder](https://github.com/RichardRed0x/analysis/reddit/reddit1/) contains the data and R code used for analysis.
+[This report](reddit/reddit1.md) gives some background to the data and considers the /r/cryptocurrency subreddit. This [folder](reddit/reddit1/) contains the data and R code used for analysis.
 
 ### Subreddit charts
 
